@@ -1,0 +1,2 @@
+source ~/Projects/pumpkin_lights/neopixel_venv/bin/activate
+cd ~/Projects/pumpkin_lights/
