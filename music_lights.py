@@ -29,6 +29,7 @@ import board
 import neopixel
 import threading
 from collections import deque
+sd.default.device = (1, None) 
 
 # ---------- CONFIG ----------
 SAMPLE_RATE = 44100
